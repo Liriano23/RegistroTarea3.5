@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegistroInscripcion", "Regi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegistroInscripcionTests", "..\RegistroInscripcionTests\RegistroInscripcionTests.csproj", "{7316E257-8C1A-4AA3-BA02-94044EB7A509}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{5D1EC994-9FC2-489F-B8E8-168FA1E1B965}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RegistroYTests", "RegistroYTests", "{F5C2A4EA-F61C-4113-8D91-252A750DBCCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,7 +28,8 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{7316E257-8C1A-4AA3-BA02-94044EB7A509} = {5D1EC994-9FC2-489F-B8E8-168FA1E1B965}
+		{186F71F6-425A-4296-B43E-B030E808A911} = {F5C2A4EA-F61C-4113-8D91-252A750DBCCE}
+		{7316E257-8C1A-4AA3-BA02-94044EB7A509} = {F5C2A4EA-F61C-4113-8D91-252A750DBCCE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B362FAE1-2256-4F62-9CC2-CE5533DD63FD}
